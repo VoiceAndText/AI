@@ -6,3 +6,8 @@ librosa
 pandas
 scikit-learn
 numpy
+fastapi
+uvicorn
+pydantic
+requests
+openai-whisper
